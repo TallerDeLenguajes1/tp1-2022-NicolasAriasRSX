@@ -1,0 +1,15 @@
+E:\P.U\Taller II\Practicas\tp1\tp1-2022-NicolasAriasRSX\bin\Debug\net6.0\tp1-2022-NicolasAriasRSX.exe
+E:\P.U\Taller II\Practicas\tp1\tp1-2022-NicolasAriasRSX\bin\Debug\net6.0\tp1-2022-NicolasAriasRSX.deps.json
+E:\P.U\Taller II\Practicas\tp1\tp1-2022-NicolasAriasRSX\bin\Debug\net6.0\tp1-2022-NicolasAriasRSX.runtimeconfig.json
+E:\P.U\Taller II\Practicas\tp1\tp1-2022-NicolasAriasRSX\bin\Debug\net6.0\tp1-2022-NicolasAriasRSX.dll
+E:\P.U\Taller II\Practicas\tp1\tp1-2022-NicolasAriasRSX\bin\Debug\net6.0\tp1-2022-NicolasAriasRSX.pdb
+E:\P.U\Taller II\Practicas\tp1\tp1-2022-NicolasAriasRSX\obj\Debug\net6.0\tp1-2022-NicolasAriasRSX.csproj.AssemblyReference.cache
+E:\P.U\Taller II\Practicas\tp1\tp1-2022-NicolasAriasRSX\obj\Debug\net6.0\tp1-2022-NicolasAriasRSX.GeneratedMSBuildEditorConfig.editorconfig
+E:\P.U\Taller II\Practicas\tp1\tp1-2022-NicolasAriasRSX\obj\Debug\net6.0\tp1-2022-NicolasAriasRSX.AssemblyInfoInputs.cache
+E:\P.U\Taller II\Practicas\tp1\tp1-2022-NicolasAriasRSX\obj\Debug\net6.0\tp1-2022-NicolasAriasRSX.AssemblyInfo.cs
+E:\P.U\Taller II\Practicas\tp1\tp1-2022-NicolasAriasRSX\obj\Debug\net6.0\tp1-2022-NicolasAriasRSX.csproj.CoreCompileInputs.cache
+E:\P.U\Taller II\Practicas\tp1\tp1-2022-NicolasAriasRSX\obj\Debug\net6.0\tp1-2022-NicolasAriasRSX.dll
+E:\P.U\Taller II\Practicas\tp1\tp1-2022-NicolasAriasRSX\obj\Debug\net6.0\refint\tp1-2022-NicolasAriasRSX.dll
+E:\P.U\Taller II\Practicas\tp1\tp1-2022-NicolasAriasRSX\obj\Debug\net6.0\tp1-2022-NicolasAriasRSX.pdb
+E:\P.U\Taller II\Practicas\tp1\tp1-2022-NicolasAriasRSX\obj\Debug\net6.0\tp1-2022-NicolasAriasRSX.genruntimeconfig.cache
+E:\P.U\Taller II\Practicas\tp1\tp1-2022-NicolasAriasRSX\obj\Debug\net6.0\ref\tp1-2022-NicolasAriasRSX.dll

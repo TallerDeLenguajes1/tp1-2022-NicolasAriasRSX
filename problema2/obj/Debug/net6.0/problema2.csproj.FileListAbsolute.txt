@@ -1,0 +1,15 @@
+E:\P.U\Taller II\Practicas\tp1\tp1-2022-NicolasAriasRSX\problema2\bin\Debug\net6.0\problema2.exe
+E:\P.U\Taller II\Practicas\tp1\tp1-2022-NicolasAriasRSX\problema2\bin\Debug\net6.0\problema2.deps.json
+E:\P.U\Taller II\Practicas\tp1\tp1-2022-NicolasAriasRSX\problema2\bin\Debug\net6.0\problema2.runtimeconfig.json
+E:\P.U\Taller II\Practicas\tp1\tp1-2022-NicolasAriasRSX\problema2\bin\Debug\net6.0\problema2.dll
+E:\P.U\Taller II\Practicas\tp1\tp1-2022-NicolasAriasRSX\problema2\bin\Debug\net6.0\problema2.pdb
+E:\P.U\Taller II\Practicas\tp1\tp1-2022-NicolasAriasRSX\problema2\obj\Debug\net6.0\problema2.csproj.AssemblyReference.cache
+E:\P.U\Taller II\Practicas\tp1\tp1-2022-NicolasAriasRSX\problema2\obj\Debug\net6.0\problema2.GeneratedMSBuildEditorConfig.editorconfig
+E:\P.U\Taller II\Practicas\tp1\tp1-2022-NicolasAriasRSX\problema2\obj\Debug\net6.0\problema2.AssemblyInfoInputs.cache
+E:\P.U\Taller II\Practicas\tp1\tp1-2022-NicolasAriasRSX\problema2\obj\Debug\net6.0\problema2.AssemblyInfo.cs
+E:\P.U\Taller II\Practicas\tp1\tp1-2022-NicolasAriasRSX\problema2\obj\Debug\net6.0\problema2.csproj.CoreCompileInputs.cache
+E:\P.U\Taller II\Practicas\tp1\tp1-2022-NicolasAriasRSX\problema2\obj\Debug\net6.0\problema2.dll
+E:\P.U\Taller II\Practicas\tp1\tp1-2022-NicolasAriasRSX\problema2\obj\Debug\net6.0\refint\problema2.dll
+E:\P.U\Taller II\Practicas\tp1\tp1-2022-NicolasAriasRSX\problema2\obj\Debug\net6.0\problema2.pdb
+E:\P.U\Taller II\Practicas\tp1\tp1-2022-NicolasAriasRSX\problema2\obj\Debug\net6.0\problema2.genruntimeconfig.cache
+E:\P.U\Taller II\Practicas\tp1\tp1-2022-NicolasAriasRSX\problema2\obj\Debug\net6.0\ref\problema2.dll
